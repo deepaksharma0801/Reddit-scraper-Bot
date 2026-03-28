@@ -1,4 +1,4 @@
-# Waymo Reddit Code Scanner — Setup Guide
+# Waymo Reddit Code Scanner — Setup Guide for automated codes
 
 ## Step 1: Get Reddit API Credentials (takes ~2 minutes)
 
