@@ -18,7 +18,7 @@
 
 ## Step 2: Add Your Credentials to the Script
 
-Open `waymo_code_scanner.py` and replace the placeholder values near the top:
+Open `waymo_code_scanner.py` and replace the placeholder values near the top: 
 
 ```python
 CLIENT_ID     = "YOUR_CLIENT_ID_HERE"       # ← paste your Client ID
