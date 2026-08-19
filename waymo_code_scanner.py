@@ -52,7 +52,7 @@ STOPWORDS = {
     "CODE","CODES","INVITE","REFERRAL","COMMENT","POSTED","THREAD","POST",
     "REDDIT","ANYONE","PLEASE","THANKS","STILL","VALID","MINE","USED",
     "WORK","DOES","HERE","SHARE","FREE","JUST","ALSO","ONLY","YOUR","THEIR",
-    "HTTPS","HTTP","WERE","THEY","BEEN","SOME","MORE","WHEN","INTO","WHAT",
+    "HTTPS","HTTP","WERE","THEY","BEEN","SOME","MORE","WHEN","INTO","WHAT","FOR"
 }
 
 def extract_codes(text: str) -> list[str]:
